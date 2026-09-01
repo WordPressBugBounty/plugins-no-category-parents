@@ -4,7 +4,7 @@ Tags: categories, category parents, category base, permalinks, seo
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 0.3.0
+Stable tag: 0.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Donate link: https://milardovich.com.ar/
@@ -40,6 +40,9 @@ Go to Settings > Permalinks and press Save once. That rebuilds the rewrite rules
 Yes. `/parent-category/my-category/` keeps resolving to the same archive.
 
 == Changelog ==
+
+= 0.3.1 =
+* Update the plugin URI to point at the plugin landing page.
 
 = 0.3.0 =
 * Compatible with WordPress 7.0 and PHP 8.
@@ -83,6 +86,9 @@ Yes. `/parent-category/my-category/` keeps resolving to the same archive.
 * Other minor fixes.
 
 == Upgrade Notice ==
+
+= 0.3.1 =
+Housekeeping only: updates the plugin URI. No functional changes.
 
 = 0.3.0 =
 Fixes deeply nested categories, removes a rewrite flush that ran on every page load, and adds

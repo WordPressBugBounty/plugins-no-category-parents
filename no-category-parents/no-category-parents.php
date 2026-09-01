@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: No Category Parents
-Plugin URI: https://wordpress.org/plugins/no-category-parents/
+Plugin URI: https://milardovich.com.ar/wordpress/
 Description: Removes the category base and every parent category from your category permalinks. It also works for post permalinks when using the /%category%/ permastruct.
-Version: 0.3.0
+Version: 0.3.1
 Requires at least: 6.0
 Requires PHP: 7.4
 Author: Sergio Milardovich
